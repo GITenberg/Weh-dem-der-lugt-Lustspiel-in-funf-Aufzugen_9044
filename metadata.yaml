@@ -1,4 +1,8 @@
 _repo: Weh-dem-der-lugt-Lustspiel-in-funf-Aufzugen_9044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grillparzer, Franz
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2585
     wikipedia: http://en.wikipedia.org/wiki/Franz_Grillparzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9044#Weh-dem-der-lugt-Lustspiel-in-funf-Aufzugen
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
